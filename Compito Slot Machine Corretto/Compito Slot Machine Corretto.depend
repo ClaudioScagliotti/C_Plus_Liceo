@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1452012469 source:c:\documents and settings\wsk01\desktop\programmazione in c++\compito slot machine corretto\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1452012469 source:c:\documents and settings\wsk01\desktop\programmazione in c++\progetti slot machine\compito slot machine corretto\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
